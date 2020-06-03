@@ -1,5 +1,6 @@
 import React from "react";
-import Phase from "./Phases";
+import Phase from "./Phase";
+
 
 class Phases extends React.Component {
   constructor(props) {

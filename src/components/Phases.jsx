@@ -13,16 +13,18 @@ class Phases extends React.Component {
   setPhaseInfo(file) {}
 
   render() {
-    <div>
-      <h1>We are currently in Phase 1.</h1>
-      <h3>Phase 2 is projected to start on June 8th.</h3>
+    return (
       <div>
-        <button>Phase 1</button>
-        <button>Phase 2</button>
-        <button>Phase 3</button>
-        <button>Phase 4</button>
+        <h1>We are currently in Phase 1.</h1>
+        <h3>Phase 2 is projected to start on June 8th.</h3>
+        <div>
+          <button>Phase 1</button>
+          <button>Phase 2</button>
+          <button>Phase 3</button>
+          <button>Phase 4</button>
+        </div>
       </div>
-    </div>;
+    );
   }
 }
 

@@ -1,6 +1,7 @@
 import React from "react";
 import Phase from "./Phase";
 
+const phase1 = require("../assets/json/phase_1.json");
 
 class Phases extends React.Component {
   constructor(props) {

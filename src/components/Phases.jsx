@@ -6,13 +6,15 @@ const phase1 = require("../assets/json/phase_1.json");
 class Phases extends React.Component {
   constructor(props) {
     super(props);
-
+    this.setPhaseInfo = this.setPhaseInfo.bind(this);
     this.state = {
       phase: {},
     };
   }
 
-  setPhaseInfo(file) {}
+  setPhaseInfo(file) {
+    this.setState({ phase: file });
+  }
 
   render() {
     return (

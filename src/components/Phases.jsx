@@ -25,3 +25,5 @@ class Phases extends React.Component {
     </div>;
   }
 }
+
+export default Phases;

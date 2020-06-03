@@ -1,8 +1,12 @@
 {
   "start_date": "May 18",
   "end_date": "June 8",
-  "advisory": "Safer at home",
-  "travelers": "Urged to quarantine for 14 days (not required)",
+  "advisory": [
+    "Safer at home"
+  ],
+  "travelers": [
+    "Urged to quarantine for 14 days (not required)"
+  ],
   "businesses": [
     "Essential business (May 18)",
     "Manufacturing (May 18)",

@@ -30,9 +30,9 @@ class Phases extends React.Component {
         <p>Click a button below for more information on the specific phases:</p>
         <div>
           <button onClick={() => this.setPhaseInfo(phase1)}>Phase 1</button>
-          <button>Phase 2</button>
-          <button>Phase 3</button>
-          <button>Phase 4</button>
+          <button onClick={() => this.setPhaseInfo(phase2)}>Phase 2</button>
+          <button onClick={() => this.setPhaseInfo(phase3)}>Phase 3</button>
+          <button onClick={() => this.setPhaseInfo(phase4)}>Phase 4</button>
         </div>
         <Phase phase={this.state.phase} />
       </div>

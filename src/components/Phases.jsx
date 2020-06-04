@@ -23,8 +23,10 @@ class Phases extends React.Component {
   render() {
     return (
       <div>
-        <h1>We are currently in Phase 1.</h1>
-        <h3>Phase 2 is projected to start on June 8th.</h3>
+        <h1>We are currently in {phaseInfo.current}</h1>
+        <h3>
+          {phaseInfo.next.name} is projected to start on {phaseInfo.next.start}.
+        </h3>
         <p>Click a button below for more information on the specific phases:</p>
         <div>
           <button onClick={() => this.setPhaseInfo(phase1)}>Phase 1</button>

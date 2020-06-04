@@ -1,0 +1,31 @@
+{
+  "start_date": "June 8",
+  "end_date": "June 29 (tentative)",
+  "advisory": [
+    "Safer at home",
+    "High risk individuals should work from home and get priority consideration for workplace accommodations",
+    "Gathering size to be determined based on trends"
+  ],
+  "travelers": [
+    "Urged to quarantine for 14 days (not required)",
+    "Business and recreational travel is discouraged",
+    "Lodging is open with restrictions"
+  ],
+  "businesses": [
+    "Retail (with capacity limitations)",
+    "Restaurants (outdoor dining only)",
+    "Lodging",
+    "Additional personal services (nail salons, day spas, etc.)"
+  ],
+  "healthcare": [
+    "Less urgent preventative services, procedures, and care (routine teeth cleanings, some elective procedures)",
+    "Day programs (adult day health, day habilitation, etc.)"
+  ],
+  "outdoor": [
+    "Campgroungs",
+    "Playgrounds and spray decks",
+    "Public and community pools (outdoor)",
+    "All athletic fields and courts (with guidelines)",
+    "Youth sports (in limited fashion)"
+  ]
+}

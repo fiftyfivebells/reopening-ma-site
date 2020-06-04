@@ -1,0 +1,20 @@
+{
+  "start_date": "TBD",
+  "end_date": "TBD",
+  "advisory": [
+    "Add individuals resume public interactions with physical distancing",
+    "Gathering size to be determined based on trends"
+  ],
+  "travelers": [
+    "Travel resumes, but continue to observe social guidance"
+  ],
+  "businesses": [
+    "Full resumption of business activities (including night clubs and large venues)"
+  ],
+  "healthcare": [
+    "Full resumption of health and human services"
+  ],
+  "outdoor": [
+    "Full resumption of outdoor recreation and activities"
+  ]
+}

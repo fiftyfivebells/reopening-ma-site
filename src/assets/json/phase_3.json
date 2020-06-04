@@ -1,0 +1,28 @@
+{
+  "start_date": "June 29 (tentative)",
+  "end_date": "TBD",
+  "advisory": [
+    "Safer at home",
+    "High risk individuals should work from home and get priority consideration for workplace accommodations",
+    "Gathering size to be determined based on trends"
+  ],
+  "travelers": [
+    "Travel restrictions to be determined based on trends"
+  ],
+  "businesses": [
+    "Potentially updated guidelines for phase 1 and phase 2 businesses",
+    "Retail (with capacity limitations)",
+    "Bars",
+    "Arts & entertainment (casinos, fitness/gyms, museums)",
+    "All other business activities except night clubs and large venues"
+  ],
+  "healthcare": [
+    "Expand ambulatory in-person routine care",
+    "Less urgent preventative services, procedures, and care (routine teeth cleanings, some elective procedures)",
+    "Day programs (adult day health, day habilitation, etc.)"
+  ],
+  "outdoor": [
+    "Additional activities and services",
+    "Youth sports with games and tournaments (limited crowd size)"
+  ]
+}

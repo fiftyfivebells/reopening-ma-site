@@ -2,32 +2,33 @@
   "start_date": "May 18",
   "end_date": "June 8",
   "advisory": [
-    "Safer at home"
+    "Safer at home",
+    "High risk individuals should work from home if possible and get priority consideration for workplace accommodations",
+    "Gatherings should be less than 10 people"
   ],
   "travelers": [
-    "Urged to quarantine for 14 days (not required)"
+    "Travelers to MA urged to quarantine for 14 days (not required)",
+    "Lodging restricted to essential business only"
   ],
   "businesses": [
-    "Essential business (May 18)",
+    "Essential businesses (May 18)",
     "Manufacturing (May 18)",
     "Construction (May 18)",
-    "Lab Space (May 25)",
-    "Office Space (May 25)",
-    "Hair Salons/Barber Shops",
-    "Pet Grooming",
-    "Car Washes",
-    "Retail (remote fulfillment and curbside pickup) (May 25)",
-    "Office Space (Boston) (June 1)"
+    "Lab space (May 25)",
+    "Office space (May 25)",
+    "Limited personal services (hair salons/barber shops, pet grooming, car washes) (May 25)",
+    "Retail (remote fulfillment and curbside pickup only) (May 25)",
+    "Office space in Boston (June 1)"
   ],
-  "hospitals": [
-    "Provide high priority preventative and pediatric care (May 18)",
-    "Treatment for high risk patients (May 18)",
-    "Additional healthcare providers () can do the same (May 25)"
+  "healthcare": [
+    "Provide high priority preventative and pediatric care and treatment for high risk individuals (May 18)",
+    "Additional healthcare providers can do the same (May 15)"
   ],
   "outdoor": [
+    "Can open with guidelines:",
     "Beaches",
     "Parks",
-    "Drive-in Theaters",
+    "Drive-in theaters",
     "Some athletic fields and courts",
     "Many outdoor adventure activities",
     "Most fishing/hunting/boating",

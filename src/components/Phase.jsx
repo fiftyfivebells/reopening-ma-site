@@ -33,7 +33,7 @@ class Phase extends React.Component {
               Business
             </button>
             <button
-              id="hospitals"
+              id="healthcare"
               onClick={(e) => this.updateInfo(e.target.id)}
             >
               Healthcare

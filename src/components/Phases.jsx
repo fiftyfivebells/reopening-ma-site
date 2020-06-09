@@ -1,11 +1,11 @@
 import React from "react";
 import Phase from "./Phase";
 
-const phaseInfo = require("../assets/json/phase_info.json");
-const phase1 = require("../assets/json/phase_1.json");
-const phase2 = require("../assets/json/phase_2.json");
-const phase3 = require("../assets/json/phase_3.json");
-const phase4 = require("../assets/json/phase_4.json");
+const phaseInfo = require("../assets/json/phases/phase_info.json");
+const phase1 = require("../assets/json/phases/phase_1.json");
+const phase2 = require("../assets/json/phases/phase_2.json");
+const phase3 = require("../assets/json/phases/phase_3.json");
+const phase4 = require("../assets/json/phases/phase_4.json");
 
 class Phases extends React.Component {
   constructor(props) {

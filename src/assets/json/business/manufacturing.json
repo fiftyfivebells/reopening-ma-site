@@ -1,0 +1,38 @@
+{
+  "Name": "Manufacturing",
+  "Social Distancing": [
+    "Ensure separation of 6 feet or more between individuals at fixed working positions unless this distance is unsafe due to the particular nature of the manufacturing work or the configuration of the workspace",
+    "Reengineer workstations to increase distance between workers; install visual distancing markers on workstations to delineate 6 feet separations; place markers throughout facility to guide movement of individuals. Close or reconfigure worker common spaces and high density areas of facilities where workers are likely to congregate (e.g., break rooms, eating areas) to allow physical distancing",
+    "Cafeterias must practice physical distancing and appropriate hygiene measures and may reopen for take-out food only; self-serve, unattended buffets, topping bars, drink stations and other communal serving areas must remain closed",
+    "Stagger lunch and break times, regulating max number of people in one place and ensuring at least 6 feet of physical distancing during any meeting",
+    "Face coverings are required for all workers, except where doing so may introduce a safety hazard to workers or where an individual is unable to wear a face covering due to a medical condition or disability ",
+    "Minimize the use of confined spaces (e.g., elevators, control rooms, vehicles) by more than one individual at a time; all workers in such space at the same time are required to wear face coverings",
+    "Physical partitions separating workstations must be installed for areas that cannot be spaced out. Physical partitions must be at least 6 feet in height ",
+    "Designate assigned working areas (e.g., floor, building, factory zone) to individuals where possible to limit movement throughout the facility and limit contact between workers ",
+    "Improve ventilation for enclosed spaces where possible (e.g., open doors and windows)"
+  ],
+  "Hygiene Protocols": [
+    "Ensure access to handwashing facilities on site, including soap and running water, and allow sufficient break time for workers to wash hands to frequently; alcohol-based hand sanitizers with at least 60% alcohol may be used as an alternative",
+    "Supply workers at workplace location with adequate cleaning products (e.g., sanitizer, disinfecting wipes)",
+    "Require regular and not less than daily cleaning and sanitation of all high-touch areas such as workstations, door handles, and restrooms",
+    "Post visible signage throughout the site to remind workers of the hygiene and safety protocols"
+  ],
+  "Staffing and Operations": [
+    "Provide training to workers on up-to-date safety information and precautions including hygiene and other measures aimed at reducing disease transmission ",
+    "Limit visitors and service providers on site; shipping and deliveries should be completed in designated areas, outside the facility if possible",
+    "Log everyone who comes in contact with site to enable contact tracing, including temporary visitors (e.g., those doing material drop-offs)",
+    "Workers must stay home if feeling ill",
+    "If the employer is notified of a positive case at the workplace, the employer shall notify the local Board of Health (LBOH) in the city or town where the workplace is located and assist the LBOH as reasonably requested to advise likely contacts to isolate and self-quarantine. Testing of other workers may be recommended consistent with guidance and / or at the request of the LBOH",
+    "Post notice to worker and customers of important health information and relevant safety measures as outlined in the Commonwealth’s Mandatory Safety Standards for Workplace",
+    "Facilities with highly manual work should reopen in gradual / phased approach, adjusting operations and work scheduling (working teams with different schedules or designated staggered arrival / departure time) to reduce density in the facility, minimize contact across workers and prevent congestion",
+    "Workers who are particularly vulnerable to COVID-19 according to the Centers for Disease Control (e.g., due to age or underlying conditions) are encouraged to stay home",
+    "Encourage workers to self-identify symptoms or any close contact to a known or suspected COVID-19 case to the employer",
+    "Encourage workers who test positive for COVID-19 to disclose to the employer for purposes of cleaning / disinfecting and contact tracing"
+  ],
+  "Cleaning and Disinfecting": [
+    "Conduct frequent cleaning and disinfection of site (after each shift, and more frequently if feasible)",
+    "Keep cleaning logs that include date, time and scope of cleaning",
+    "Conduct frequent disinfecting of heavy transit areas, heavy machinery and high-touch surfaces (e.g., doorknobs, handrails, shared tools, bathrooms, elevators)",
+    "In event of a positive case, shut down site for a deep cleaning and disinfecting of the workplace in accordance with current guidance"
+  ]
+}

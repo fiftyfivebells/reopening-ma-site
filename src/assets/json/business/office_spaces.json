@@ -1,0 +1,59 @@
+{
+  "Name": "Office Spaces",
+  "Social Distancing": [
+    "Businesses and other organizations shall limit occupancy within their office space to no more than",
+    "25 percent of (a) the maximum occupancy level specified in any certificate of occupancy or similar permit or as provided for under the state building code; or (b) the business or organization’s typical occupancy as of March 1, 2020",
+    "Any business or other organization that has been operating as a “COVID-19 Essential Service” as of May 18, 2020 shall have until July 1, 2020 to comply with these occupancy limitations",
+    "Businesses and other organizations may exceed this maximum occupancy level based on a demonstrated need for relief based on public health or public safety considerations or where strict compliance may interfere with the continued delivery of critical services",
+    "Ensure separation of 6 feet or more between individuals unless this creates a safety hazard due to the nature of the work or the configuration of the workspace",
+    "Close or reconfigure worker common spaces and high density areas where workers are likely to congregate (e.g., break rooms, eating areas) to allow 6 feet of physical distancing; redesign work stations to ensure physical distancing (e.g., separate tables, use distance markers to assure spacing)",
+    "Cafeterias must practice physical distancing and appropriate hygiene measures and may reopen for take-out food only; self-serve, unattended buffets, topping bars, drink stations and other communal serving areas must remain closed",
+    "Physical partitions separating workstations must be installed for areas that cannot be spaced out. Physical partitions must be at least 6 feet in height ",
+    "Limit meeting sizes, ensure 6 feet of social distancing, encourage remote participation",
+    "Stagger work schedules, lunch and break times, regulating maximum number of people in one place and ensuring at least 6 feet of physical distancing",
+    "Minimize the use of confined spaces (e.g., elevators, control rooms, vehicles) by more than one individual at a time; all workers in such spaces at the same time are required to wear face coverings",
+    "Improve ventilation for enclosed spaces where possible (e.g., open doors and windows)",
+    "Designate assigned working areas (e.g., floor, building) to individuals where possible to limit movement throughout the facility and limit contact between workers",
+    "Establish directional hallways and passageways for foot traffic if possible, to minimize contact. Post clearly visible signage regarding these policies",
+    "Limit visitors where feasible, and avoid congregation in common areas (e.g., lobbies)"
+  ],
+  "Hygiene Protocols": [
+    "Ensure access to handwashing facilities on site, including soap and running water, wherever possible and encourage frequent handwashing; alcohol-based hand sanitizers with at least 60% alcohol may be used as an alternative",
+    "Supply workers at workplace location with adequate cleaning products (e.g., sanitizer, disinfecting wipes)",
+    "Require regular and not less than daily cleaning and sanitation of all high-touch areas such as workstations, door handles, and restrooms",
+    "Avoid sharing use of office materials / equipment or disinfect equipment between use (e.g., telephones, fax machines)",
+    "Post visible signage throughout the site to remind workers of the hygiene and safety protocols"
+  ],
+  "Staffing and Operations": [
+    "Establish and communicate a worksite specific COVID-19 Prevention Plan for all office locations, including:",
+    "Contact information for local health authorities, including the MA Department of Public Health, and your local / municipal Health Authority",
+    "Regularly evaluate all workspaces to ensure compliance with all Federal, State and Local Guidelines ",
+    "Isolation, Contact Tracing, and Communication plan for if an worker is diagnosed as positive with COVID-19, or comes into close contact (within 6 feet for 10 minutes or more) with an individual diagnosed with COVID-19",
+    "Provide training to workers on up-to-date safety information and precautions including hygiene and other measures aimed at reducing disease transmission, including:",
+    "Social distancing, hand-washing, proper use of face coverings",
+    "Self-screening at home, including temperature or symptom checks",
+    "Importance of not coming to work if ill",
+    "When to seek medical attention if symptoms become severe",
+    "Which underlying health conditions may make individuals more susceptible to contracting and suffering from a severe case of the virus",
+    "Workers must wear face coverings when social distancing of 6 feet is not possible, except where unsafe due to medical condition or disability",
+    "Employers should establish adjusted workplace hours and shifts for workers (if working in-person, leverage working teams with different schedules or staggered arrival / departure) to minimize contact across workers and reduce congestion at entry points",
+    "Limit visitors and service providers on site; shipping and deliveries should be completed in designated areas",
+    "Limit business sponsored travel and comply with state and federal travel restrictions / guidelines",
+    " ",
+    "Workers must stay home if feeling ill",
+    "If the employer is notified of a positive case at the workplace, the employer shall notify the local Board of Health (LBOH) in the city or town where the workplace is located and assist the LBOH as reasonably requested to advise likely contacts to isolate and self-quarantine. Testing of other workers may be recommended consistent with guidance and / or at the request of the LBOH",
+    "Post notice to workers and customers of important health information and relevant safety measures as outlined in the Commonwealth’s Mandatory Safety Standards for Workplace",
+    "Log everyone who comes in contact with site to enable contact tracing, including temporary visitors (e.g., those doing material drop-offs)",
+    "Workers must continue to telework if feasible; external meetings should be remote to reduce density in the office\n ",
+    "Workers who are particularly vulnerable to COVID-19 according to the Centers for Disease Control (e.g., due to age or underlying conditions) are encouraged to stay home or arrange an alternate work assignment",
+    "Workers are strongly encouraged to self-identify symptoms or any close contact to a known or suspected COVID-19 case to the employer ",
+    "Encourage workers who test positive for COVID-19, to disclose to the employer of the office for purposes of cleaning / disinfecting and contact tracing "
+  ],
+  "Cleaning and Disinfecting": [
+    "Conduct frequent cleaning and disinfection of site (at least daily and more frequently if feasible)",
+    "Keep cleaning logs that include date, time, and scope of cleaning",
+    "Conduct frequent disinfecting of heavy transit areas and high-touch surfaces (e.g., doorknobs, elevator buttons, staircases, vending machine, bathrooms)",
+    "Clean shared spaces (e.g., conference rooms) between use and supply cleaning products (e.g., sanitizer, disinfecting wipes)",
+    "In event of a positive case, shut down site for a deep cleaning and disinfecting of the workplace in accordance with current CDC guidance"
+  ]
+}

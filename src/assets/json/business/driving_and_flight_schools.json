@@ -1,0 +1,53 @@
+{
+  "Name": "Driving and Flight Schools",
+  "Social Distancing": [
+    "Instructors and students should maintain distances of six feet in buildings, unless this creates a safety hazard due to the nature of the work or the configuration of the workspace.  Limit class sizes so that classroom occupancy does not exceed 40% of maximum room capacity",
+    "If any non-classroom work areas cannot be spaced out, physical partitions must separate workstations (partitions must be at least 6 feet in height)",
+    "Limit class sizes and reconfigure spaces to ensure 6 feet of social distancing, and encourage remote participation",
+    "Close or reconfigure any other common spaces and high density areas where workers are likely to congregate (e.g., break rooms, eating areas) to allow 6 feet of physical distancing; redesign work stations to ensure physical distancing (e.g., separate tables, use distance markers to assure spacing)",
+    "Cafeterias must practice physical distancing and appropriate hygiene measures and may reopen for take-out food only; self-serve, unattended buffets, topping bars, drink stations and other communal serving areas must remain closed",
+    "To the extent possible, use online learning to replace in-person classroom instruction",
+    "Improve ventilation for enclosed spaces where possible (e.g., open doors and windows), including keeping windows open during in-vehicle instruction in automobiles",
+    "Establish directional hallways and passageways for foot traffic if possible, to minimize contact. Post clearly visible signage regarding these policies",
+    "Limit visitors where feasible, and avoid congregation in common areas (e.g., lobbies)"
+  ],
+  "Hygiene Protocols": [
+    "Ensure access to handwashing facilities on site, including soap and running water, wherever possible and encourage frequent handwashing; alcohol-based hand sanitizers with at least 60% alcohol may be used as an alternative",
+    "Require regular and not less than daily cleaning and sanitation of all high-touch areas such as workstations, desks and chairs, door handles, and restrooms",
+    "Avoid sharing use of materials / equipment or disinfect equipment between use (e.g., telephones, computers, touch screens)",
+    "Post visible signage throughout the site to remind instructors and students of the hygiene and safety protocols",
+    "Supply workers and instructors with adequate cleaning products (e.g., sanitizer, disinfecting wipes)",
+    "No food is allowed in classrooms or the vehicle during test drives"
+  ],
+  "Staffing and Operations": [
+    "Establish and communicate a worksite specific COVID-19 Prevention Plan for all locations, including:",
+    "Driving lessons should be by appointment only and only allow for one student and one instructor in the car at a time ",
+    "Provide training to employees on up-to-date safety information and precautions including hygiene and other measures aimed at reducing disease transmission, including:",
+    "Instructors, students and staff must wear face coverings, except where unsafe due to medical condition or disability ",
+    "Encourage the use of electronic payment ",
+    "Sharing of materials such as books, notebooks, pads, pens and pencils, headsets, view-limiting devices, or kneeboards is not allowed.  Require students and instructors to use their own items",
+    "Encourage windows to be open when operating automobiles, weather permitting",
+    "Workers may not appear for work if feeling ill",
+    " ",
+    "Instructors, students and staff must wear face coverings, except where unsafe due to medical condition or disability ",
+    "Encourage the use of electronic payment ",
+    "Sharing of materials such as books, notebooks, pads, pens and pencils, headsets, view-limiting devices, or kneeboards is not allowed.  Require students and instructors to use their own items",
+    "Encourage windows to be open when operating automobiles, weather permitting",
+    "Workers may not appear for work if feeling ill",
+    "Workers who are particularly vulnerable to COVID-19 according to the Centers for Disease Control should be encouraged to stay home or managers should arrange an alternate work assignment that reduces in-person interaction with other workers and students",
+    "Encourage workers who test positive for COVID-19 to disclose to the employer for purposes of cleaning / disinfecting and contact tracing. If the employer is notified of a positive case at the workplace, the employer shall notify the local Board of Health (LBOH) in the city or town where the workplace is located and work with the LBOH as reasonably requested to advise likely contacts and workers to isolate and self-quarantine. Testing of other workers may be recommended consistent with guidance and / or at the request of the LBOH ",
+    "Post notice to workers and customers of important health information and relevant safety measures as outlined in the Commonwealth’s Mandatory Safety Standards for Workplace",
+    "Keep a daily log of all students in every class and all student and instructors in vehicles.  Log everyone who comes in contact with site to enable contact tracing, including temporary visitors (e.g., those doing material drop-offs)",
+    "Students and instructors must be screened (questioned about) symptoms of COVID-19 which can include fever, cough and sore throat, shortness of breath, fatigue, fever, cough and sore throat, shortness of breath, fatigue, body aches, headache, new loss of taste or smell, congestion or runny nose, nausea or vomiting and diarrhea before each shift (for staff) and before the appointment (for students). Staff with any symptoms shall be instructed not to appear for work. Students with any symptoms must be rescheduled",
+    "The use of face shields, goggles, or safety glasses may reduce the risk of infection for instructors (and students)"
+  ],
+  "Cleaning and Disinfecting": [
+    "Conduct frequent cleaning and disinfection of non-vehicle facilities (at least daily and more frequently if feasible)",
+    "Keep cleaning logs that include date, time and scope of cleaning",
+    "Conduct frequent disinfecting of heavy transit areas and high-touch surfaces (e.g., doorknobs, elevator buttons, staircases, vending machines, bathrooms)",
+    "In event of a positive case, shut down site for a deep cleaning and disinfecting of the workplace in accordance with current CDC guidance",
+    "All vehicles must be disinfected following each use, front and back seat areas, regardless of seating use during the previous use.  Due to sensitive electronics in cockpits, use of disinfectant wipes with at least 70% isopropyl alcohol is recommended",
+    "Keep disinfectant wipes in the vehicle for additional cleaning of touchpoints right before a session",
+    "Where possible, use disposable steering wheel covers or seat covers and replace after each use to reduce the possibility of contamination"
+  ]
+}

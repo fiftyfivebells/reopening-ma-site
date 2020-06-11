@@ -1,0 +1,49 @@
+{
+  "Name": "Close Contact Personal Services",
+  "Social Distancing": [
+    "Arrange workstations so work areas are spaced out at least 6 feet apart",
+    "Install visual markers to encourage customers to remain at least 6 feet apart ",
+    "Stagger lunch and break times for workers, regulate the maximum number of people in one place, and ensure at least 6 feet of physical distancing",
+    "Close or reconfigure worker common spaces and high-density areas of facilities where workers are likely to congregate (e.g., break rooms, eating areas) to allow 6 feet of physical distancing",
+    "Require face coverings for all customers and workers, except where an individual is unable to wear a face covering due to a medical condition or disability",
+    "Require workers to wear gloves, gowns or smocks, and prescription glasses, safety glasses or goggles",
+    "Install physical partitions between workstations where feasible; partitions should be no less than 6 feet high ",
+    "No guests should accompany the customer during the personal service except for persons serving as caretakers or guardians. Guests should observe all other requirements of customers, including wearing a face covering and maintaining 6 feet of separation from other persons present  ",
+    "Improve ventilation for enclosed spaces where possible (e.g., open doors and windows)",
+    "Contactless payment methods are encouraged",
+    "Encourage curbside pickup or delivery of any retail items purchased by customers not already on the premises for a service appointment, and follow the Retail Business guidance for customers seeking retail purchases instead of or in addition to personal services"
+  ],
+  "Hygiene Protocols": [
+    "Ensure access to handwashing facilities on site, including soap and running water, and allow enough break time for workers to wash hands frequently; alcohol-based hand sanitizers with at least 60% alcohol may be used as an alternative",
+    "Supply workers at workplace location with adequate cleaning products (e.g., sanitizer, disinfecting wipes, disinfectant)",
+    "Require glove changes and handwashing before and after each customer",
+    "Do not permit sharing of tools and supplies between workers (e.g., clippers, spacers, brushes, needles, etc.).  All tools must be cleaned between each customer   ",
+    "Workers should change into a clean smock or gown between each customer. Consider using disposable capes and smocks. Reusable capes, towels, gowns should be laundered between each use",
+    "Post visible signage throughout the site to remind workers and customers of hygiene and safety protocols"
+  ],
+  "Staffing and Operations": [
+    "Provide training to workers on up-to-date safety information and precautions including hygiene and other measures aimed at reducing disease transmission, including:",
+    "Adjust workplace hours and shifts (working teams with different schedules or staggered arrival / departure) to minimize contact across workers and reduce congestion",
+    "Require customers to make an appointment in advance to receive service",
+    "Close waiting areas and ask customers to wait outside or in cars until it is time for their appointment ",
+    "Maintain a log of workers and customers to support potential contact tracing (name, date, time, contact information) ",
+    "Remove non-essential amenities (e.g., magazines, customer-facing water or coffee, coat rooms, etc.)",
+    "Workers may not appear for work if feeling ill",
+    "If the employer is notified of a positive case at the workplace, the employer shall notify the local Board of Health (LBOH) in the city or town where the workplace is located and assist the LBOH as reasonably requested to advise likely contacts to isolate and self-quarantine. Testing of other workers may be recommended consistent with guidance and / or at the request of the LBOH",
+    "Post notice to workers and customers of important health information and relevant safety measures as outlined in the Commonwealth’s Mandatory Safety Standards for Workplace",
+    "Workers who are who are at high risk from COVID-19 according to the Centers for Disease Control should be encouraged to stay home or should have work assignments shifted to reduce contact with customers and co-workers",
+    "Encourage workers to self-identify symptoms or any close contact to a known or suspected COVID-19 case to the employer",
+    "Encourage workers who test positive for COVID-19 to disclose to the workplace employer for purposes of cleaning / disinfecting and contact tracing"
+  ],
+  "Cleaning and Disinfecting": [
+    "Clean commonly touched surfaces in restrooms (e.g., toilet seats, doorknobs, stall handles, sinks, paper towel dispensers, soap dispensers) frequently and in accordance with CDC guidelines",
+    "Conduct frequent cleaning and disinfection of site (at least daily, and more frequently if feasible)",
+    "Keep cleaning logs that include date, time, and scope of cleaning",
+    "Conduct frequent disinfecting of heavily transited areas and high-touch surfaces (e.g., doorknobs, handrails, headrests, armrests, etc.)",
+    "In the event of a positive case of a worker, patron or vendor shut down site and wait 24 hours before cleaning and disinfecting of the workplace in accordance with current CDC guidance",
+    "Disinfect or replace tools, implements and surfaces between customers (e.g., tables, finger bowls, chairs and headrests, spatulas, clippers, spacers, styling tools)",
+    "If tools cannot be disinfected (i.e., porous tools such as nail files, buffers, drill bits, etc.), they must be discarded after use",
+    "Disinfect chair, table, and/or workstation between customers or use disposable plastic coverings for each customer, observing contact time on label for disinfectant to work properly",
+    "Launder all linens, towel drapes and smocks in hot soapy water and dry completely regularly and between each use"
+  ]
+}

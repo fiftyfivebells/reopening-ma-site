@@ -1,0 +1,38 @@
+{
+  "Name": "Laboratories",
+  "Social Distancing": [
+    "Ensure separation of 6 feet or more between individuals at fixed working positions unless this distance is unsafe due to nature of the work or the configuration of the workspace",
+    "Designate assigned working areas (e.g., floor, building, factory zone) to individuals where possible to limit movement throughout the facility and limit contact between workers",
+    "Stagger work schedules, lunch and break times, regulating max number of people in one place and ensuring 6 feet of physical distance",
+    "Workers must use face coverings or face masks except where doing so may introduce a safety hazard to workers or where an individual is unable to wear a face covering due to a medical condition or disability ",
+    "Minimize the use of confined spaces (e.g., elevators, control rooms, vehicles) by more than one individual at a time; all workers in such space at the same time are required to wear face coverings",
+    "Improve ventilation for enclosed spaces where possible (e.g., open doors and windows)"
+  ],
+  "Hygiene Protocols": [
+    "Ensure access to handwashing facilities on site, including soap and running water, and allow sufficient break time for workers to wash hands frequently; alcohol-based hand sanitizers with at least 60% alcohol may be used as an alternative",
+    "Supply workers with adequate cleaning products (e.g., sanitizer, disinfecting wipes)",
+    "Require frequent cleaning and sanitation of all high-touch areas such as desks, door handles, and restrooms",
+    "Avoid sharing use of laboratory materials / equipment (e.g., goggles) or disinfect equipment between use",
+    "Post visible signage throughout the site to remind workers of the hygiene and safety protocols"
+  ],
+  "Staffing and Operations": [
+    "Provide training to workers on up-to-date safety information and precautions including hygiene and other measures aimed at reducing disease transmission",
+    "Adjust workplace hours and shifts (if working in-person, leverage working teams with different schedules or staggered arrival / departure) to minimize contact across workers and reduce congestion at entry points",
+    "Limit visitors and service providers on site; shipping and deliveries should be completed in designated areas, outside the facility if possible",
+    "Restrict access of office workers to lab or production facilities; segment office / support personnel to specific areas of the facility ",
+    "Workers must stay home if feeling ill",
+    "If the employer is notified of a positive case at the workplace, the employer shall notify the local Board of Health (LBOH) in the city or town where the workplace is located and assist the LBOH as reasonably requested to advise likely contacts to isolate and self-quarantine. Testing of other workers may be recommended consistent with guidance and / or at the request of the LBOH",
+    "Post notice to workers and customers of important health information and relevant safety measures as outlined in the Commonwealth’s Mandatory Safety Standards for Workplace",
+    "Workers must continue to telework if feasible (e.g., office work, data analysis, notebook recording); meetings should be remote to reduce density in the laboratory",
+    "Workers who are particularly vulnerable to COVID-19 according to the Centers for Disease Control (e.g., due to age or underlying conditions) are encouraged to stay home",
+    "Encourage workers to self-identify symptoms or any close contact to a known or suspected COVID-19 case to the employer",
+    "Encourage workers who test positive for COVID-19 to disclose to the employer for purposes of cleaning / disinfecting and contact tracing"
+  ],
+  "Cleaning and Disinfecting": [
+    "Conduct daily cleaning and disinfection of site (at least daily, and more frequently if feasible)",
+    "Keep cleaning logs that include date, time, and scope of cleaning",
+    "Conduct frequent disinfecting of heavy transit areas and high-touch surfaces (e.g., doorknobs, handrails, elevators, bathrooms)",
+    "In event of a positive case, shut down site for a deep cleaning and disinfecting of the workplace in accordance with current guidance",
+    "Clean shared spaces (e.g., conference rooms) between use and supply cleaning products (e.g., sanitizer, disinfecting wipes)"
+  ]
+}

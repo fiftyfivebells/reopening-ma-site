@@ -1,0 +1,31 @@
+{
+  "Name": "General",
+  "Social Distancing": [
+    "All employees, customers, and vendors should remain 6 feet apart to the greatest extent possible, both inside and outside workplaces",
+    "Establish protocols to ensure that employees can practice adequate social distancing",
+    "Provide signage for safe social distancing",
+    "Require face coverings or masks for all employees"
+  ],
+  "Hygiene Protocols": [
+    "Provide hand-washing capabilities throughout the workplace",
+    "Ensure frequent hand-washing by employees and adequate supplies to do so",
+    "Provide regular sanitization of high touch areas, such as workstations, equipment, screens, doorknobs, and restrooms throughout the worksite"
+  ],
+  "Staffing and Operations": [
+    "Provide training for employees regarding social distancing and hygiene protocols",
+    "Employees displaying COVID-19 symptoms should not report to work",
+    "Establish a plan for employees getting ill from COVID-19 at work and a return to work plan"
+  ],
+  "Cleaning and Disinfecting": [
+    "Establish and maintain cleaning protocols specific to the business",
+    "When an active employee is diagnosed with COVID-19, cleaning and disinfecting must be performed",
+    "Disinfection of all common surfaces must take place at regular intervals appropriate to the workplace"
+  ],
+  "links": [
+    "https://www.mass.gov/info-details/reopening-mandatory-safety-standards-for-workplaces",
+    "https://www.mass.gov/doc/covid-19-reopening-control-plan-template/download",
+    "https://www.mass.gov/doc/compliance-attestation/download",
+    "https://www.mass.gov/doc/employer-reopening-poster/download",
+    "https://www.mass.gov/doc/employee-reopening-poster/download"
+  ]
+}

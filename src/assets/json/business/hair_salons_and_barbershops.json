@@ -1,0 +1,46 @@
+{
+  "Name": "Hair Salons and Barbershops",
+  "Social Distancing": [
+    "Arrange chairs so work areas are spaced out at least 6 feet apart",
+    "Install visual markers to encourage customers to remain at least 6 feet apart ",
+    "Stagger lunch and break times, regulate the maximum number of people in one place and ensure at least 6 feet of physical distancing",
+    "Close or reconfigure worker common spaces and high density areas of facilities where workers are likely to congregate (e.g., break rooms, eating areas) to allow 6 feet of physical distancing",
+    "Require face coverings for all customers and workers, except where an individual is unable to wear a face covering due to a medical condition or disability",
+    "Require workers to wear gloves, gowns or smocks, and prescription glasses, safety glasses or goggles ",
+    "Improve ventilation for enclosed spaces where possible (e.g., open doors and windows)",
+    "Install physical partitions between workstations where feasible. Physical partitions must be at least 6 feet in height",
+    "Contactless payment methods are encouraged"
+  ],
+  "Hygiene Protocols": [
+    "Ensure access to handwashing facilities on site, including soap and running water, and allow sufficient break time for workers to wash hands frequently; alcohol-based hand sanitizers with at least 60% alcohol may be used as an alternative",
+    "Supply workers at workplace location with adequate cleaning products (e.g., sanitizer, disinfecting wipes)",
+    "Require glove changes and handwashing before and after each customer",
+    "Do not permit sharing of tools and supplies between workers (shears, combs, brushes, etc.)",
+    "Use clean capes for each customer",
+    "Workers should change into a clean smock or gown between each client. Consider using disposable capes and smocks. Reusable capes, towels, gowns should be laundered between each use",
+    "Disinfect all tools between customers",
+    "Post visible signage throughout the site to remind workers and clients of hygiene and safety protocols"
+  ],
+  "Staffing and Operations": [
+    "Limit service to hair services only (haircuts, color, blow drying and treatments). Non-hair services are not permitted (eyebrows, beard trimming, lip waxing, manicures, etc.) ",
+    "Provide training to workers on safety standards, up-to-date safety information and precautions including hygiene and other measures aimed at reducing disease transmission",
+    "Adjust workplace hours and shifts (working teams with different schedules or staggered arrival / departure) to minimize contact across workers and reduce congestion",
+    "Close waiting areas and ask customers to wait outside or in cars until it is time for their appointment ",
+    "Require customers to make an appointment in advance to receive service",
+    "Maintain a log of workers and customers to support contact tracing (name, date, time, contact information) if needed",
+    "Remove non-essential amenities (magazines, customer-facing water or coffee, coat rooms etc.)",
+    "All workers must stay home if feeling ill",
+    "If the employer is notified of a positive case at the workplace, the employer shall notify the local Board of Health (LBOH) in the city or town where the workplace is located and assist the LBOH as reasonably requested to advise likely contacts to isolate and self-quarantine. Testing of other workers may be recommended consistent with guidance and / or at the request of the LBOH",
+    "Post notice to workers and customers of important health information and relevant safety measures as outlined in the Commonwealth’s Mandatory Safety Standards for Workplace",
+    "Workers who are particularly vulnerable to COVID-19 according to the Centers for Disease Control (e.g., due to age or underlying conditions) are encouraged to stay home",
+    "Encourage workers to self-identify symptoms or any close contact to a known or suspected COVID-19 case to the employer",
+    "Encourage workers who test positive for COVID-19 to disclose to the workplace employer for purposes of cleaning / disinfecting and contact tracing"
+  ],
+  "Cleaning and Disinfecting": [
+    "Conduct frequent cleaning and disinfection of site (at least daily, and more frequently if feasible)",
+    "Keep cleaning logs that include date, time, and scope of cleaning",
+    "Conduct frequent disinfecting of heavy transit areas and high-touch surfaces (e.g., doorknobs, rolling carts, bathrooms)",
+    "In event of a positive case, shut down site for a deep cleaning and disinfecting of the workplace in accordance with current CDC guidance",
+    "Disinfect tools between customers (e.g., shampoo bowls, chairs and headrests, shears, combs, brushes, razors, styling tools)"
+  ]
+}

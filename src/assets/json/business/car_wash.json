@@ -1,0 +1,53 @@
+{
+  "Name": "Car Washes",
+  "Social Distancing": [
+    "Ensure at least 6 feet of separation between individuals",
+    "Assign workers to individually designated work areas, increase physical space between workers, and stagger work schedules",
+    "Stagger lunch and break times, regulating a maximum number of people in one place and ensuring 6 feet of physical distancing",
+    "Face coverings are required for all workers, except where doing so is unsafe due to medical condition or disability",
+    "Physical partitions are recommended where physical distancing is challenging (e.g. cashier) and must be at least 6 feet in height",
+    "Improve ventilation for enclosed spaces where possible (e.g., open doors and windows)",
+    "Encourage contactless payment methods"
+  ],
+  "Hygiene Protocols": [
+    "Ensure access to handwashing facilities on site, including soap and running water, wherever possible and allow sufficient break time to wash hands frequently; alcohol-based sanitizers with at least 60% alcohol may be used as an alternative",
+    "Supply workers at workplace location with adequate cleaning products (e.g., sanitizer, disinfecting wipes)",
+    "Require frequent cleaning and sanitization of high-touch areas, such as desks, door handles, and restrooms",
+    "Post visible signage throughout the site to remind workers of hygiene and safety protocols"
+  ],
+  "Staffing and Operations": [
+    "Provide training to workers on car wash safety standards, up-to-date safety information and precautions including hygiene and other measures aimed at reducing disease transmission",
+    "Self-service interior cleaning is permitted so long as customers are able to maintain 6 feet of distancing",
+    "Customers should line up in their cars at facilities with automated car washing",
+    "Customers should stay in their cars throughout the exterior car wash process",
+    "Adjust workplace hours and shifts (leverage working teams with different schedules or staggered arrival / departure) to minimize contact across workers and reduce congestion at entry points",
+    "Maintain a log of workers and customers to support contact tracing (name, date, time, contact information)",
+    "Workers must stay home if feeling ill",
+    "If the employer is notified of a positive case at the workplace, the employer shall notify the local Board of Health (LBOH) in the city or town where the workplace is located and assist the LBOH as reasonably requested to advise likely contacts to isolate and self-quarantine. Testing of other workers may be recommended consistent with guidance and / or at the request of the LBOH",
+    "Post notice to workers and customers of important health information and relevant safety measures as outlined in the Commonwealth’s Mandatory Safety Standards for Workplace",
+    "Workers who are particularly vulnerable to COVID-19 according to the Centers for Disease Control (e.g., due to age or underlying conditions) are encouraged to stay home",
+    "Workers are strongly encouraged to self-identify symptoms or any close contact to a known or suspected COVID-19 case to their employer",
+    "Encourage workers who test positive for COVID-19, to disclose to the employer of the office for purposes of cleaning / disinfecting and contact tracing"
+  ],
+  "Cleaning and Disinfecting": [
+    "Conduct frequent cleaning and disinfection of site (at least daily and more frequently if feasible)",
+    "Keep cleaning logs that include date, time, and scope of cleaning",
+    "Conduct frequent disinfecting of heavy transit areas and high-touch surfaces (e.g., doorknobs, bathrooms)",
+    "Disinfect self-service tools (e.g., vacuums) between each customer use",
+    "In event of a positive case, shut down site for a deep cleaning and disinfecting of the workplace in accordance with current CDC guidance"
+  ],
+  "links": [
+    {
+      "Mass.gov": "https://www.mass.gov/info-details/safety-standards-and-checklist-car-washes#phase-ii-downloads-"
+    },
+    {
+      "Sector Specfic Standards": "https://www.mass.gov/doc/sector-specific-workplace-safety-standards-for-car-washes-to-address-covid-19/download"
+    },
+    {
+      "Protocol Summary": "https://www.mass.gov/doc/car-washes-protocol-summary/download"
+    },
+    {
+      "Checklist": "https://www.mass.gov/doc/car-washes-checklist/download"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "Name": "Pet Grooming",
+  "Social Distancing": [
+    "Ensure at least 6 feet of separation between individuals ",
+    "Close or reconfigure worker common spaces and high density areas where workers are likely to congregate (e.g., break rooms, eating areas) to allow social distancing; remove chairs and / or use distance markers to assure spacing (e.g., grooming workstations, counter space, office space)",
+    "Maintain physical distancing in businesses with multiple groomers by limiting the number of groomers working together at the same time, working at every other table, and allowing only one worker and one pet at a time in the pet bathing area",
+    "Physical partitions must separate workstations that cannot be spaced out, (partitions must be at least 6 feet in height)",
+    "Stagger lunch and break times, regulating maximum number of people in one place and ensuring at least 6 feet of physical distancing",
+    "Ensure proper distancing with customers",
+    "Communicate with clients via telephone or video-chat to avoid in-person conversations ",
+    "Customers may enter the facility to drop off their pets provided other physical distancing guidelines are met; curbside drop-off is encouraged",
+    "Grooming salons must supply leashes to guide pets so there is no hand-off of an owner’s leash at time of service",
+    "Customers should call or text upon arrival to the salon to arrange for drop-off or pick up of their pet",
+    "Install visual markers to encourage customers outside to remain at least 6 feet apart",
+    "Require face coverings for all workers and customers, except where unsafe due to medical condition or disability ",
+    "Grooming services may be provided only in mobile units, salons, or stores",
+    "Improve ventilation for enclosed spaces where possible (e.g., open doors and windows)",
+    "Contactless payment methods are encourage"
+  ],
+  "Hygiene Protocols": [
+    "Ensure access to handwashing facilities on site, including soap and running water, and allow sufficient break time for workers to wash hands to frequently; alcohol-based hand sanitizers with at least 60% alcohol may be used as an alternative",
+    "Supply workers at workplace location with adequate cleaning products (e.g., sanitizer, disinfecting wipes)",
+    "Avoid sharing tools and supplies between workers",
+    "Post visible signage throughout the site to remind workers of hygiene and safety protocols",
+    "Prior to accepting a pet, ask the owner if anyone in the house has COVID-19. Grooming cannot be allowed if someone in the client household is confirmed to have or suspected of having COVID-19"
+  ],
+  "Staffing and Operations": [
+    "Provide training to workers on up-to-date safety information and precautions including hygiene and other measures aimed at reducing disease transmission",
+    "Adjust workplace hours and shifts (leverage working teams with different schedules or staggered arrival / departure) to minimize contact across workers and reduce congestion at entry points",
+    "Customers may enter facility to drop off their pets provided other physical distancing guidelines are met, though curbside drop-off is still encouraged ",
+    "Limit visitors and service providers on site; shipping and deliveries should be completed in designated areas",
+    "Workers must stay home if feeling ill",
+    "If the employer is notified of a positive case at the workplace, the employer shall notify the local Board of Health (LBOH) in the city or town where the workplace is located and assist the LBOH as reasonably requested to advise likely contacts to isolate and self-quarantine. Testing of other workers may be recommended consistent with guidance and / or at the request of the LBOH",
+    "Post notice to workers and customers of important health information and relevant safety measures as outlined in the Commonwealth’s Mandatory Safety Standards for Workplace",
+    "Workers who are particularly vulnerable to COVID-19 according to the Centers for Disease Control (e.g., due to age or underlying conditions) are encouraged to stay home",
+    "Encourage workers to self-identify symptoms or any close contact to a known or suspected COVID-19 case to the employer",
+    "Encourage workers who test positive for COVID-19 to disclose to the employer for purposes of cleaning / disinfecting and contact tracing"
+  ],
+  "Cleaning and Disinfecting": [
+    "Conduct frequent cleaning and disinfection of site (at least daily and more frequently if feasible)",
+    "Keep cleaning logs that include date, time, and scope of cleaning",
+    "Conduct frequent disinfecting of heavy transit areas and high-touch surfaces (e.g., doorknobs, bathrooms)",
+    "In event of a positive case, shut down site for a deep cleaning and disinfecting of the workplace in accordance with current CDC guidance",
+    "Disinfect tools between customers (e.g., shampoo bowls, shears, combs, brushes)"
+  ]
+}

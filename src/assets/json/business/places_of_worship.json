@@ -1,0 +1,38 @@
+{
+  "Name": "Places of Worship",
+  "Social Distancing": [
+    "For indoor services, all places of worship shall limit occupancy to 40 percent of the building’s maximum permitted occupancy level as documented in its occupancy permit on record with the municipal building department or other municipal record holder. The occupant count shall include all persons inside the place of worship, including attendees and staff",
+    "Staff or attendants shall monitor the number of attendees entering the place of worship for indoor services to ensure compliance with the maximum occupancy level",
+    "Attendees who are not part of the same immediate household must be seated at least 6 feet apart. Members of the same immediate household are permitted to sit together and less than 6 feet apart",
+    "If there is fixed seating, rows should be blocked off and kept empty to allow for sufficient distancing between rows",
+    "All attendees and staff must wear face coverings or masks in accordance with COVID-19 Order No. 31 and the Department of Public Health’s Guidance while inside and while entering and exiting places of worship or otherwise participating in in-person services, except where a person is unable to wear a face covering or mask because of a medical or disabling condition",
+    "A leader or celebrant engaged in conducting the service or making an address may remove his or her face covering while doing so, provided that he or she is able to maintain a distance of at least 6 feet from other persons present; installation of protective, plexi-glass or other transparent barriers are recommended for lecterns and other points of address ",
+    "For children between age 2 and 5, the wearing of a face covering or mask is at the discretion of the child’s parent or guardian. Children under the age of 2 should not wear a face covering or mask",
+    "A person who declines to wear a face covering or mask because of a medical or disabling condition shall not be required to produce documentation verifying the condition",
+    "If feasible, places of worship are encouraged to arrange online sign-up for services in advance in order to monitor and limit the number of attendees",
+    "Places of worship are encouraged to place tape or other visual distancing markings on seating to delineate 6 foot separations and to post signage indicating the maximum number of persons permitted per row",
+    "Promote ventilation for enclosed spaces where possible. For example, consider opening windows and doors to allow airflow",
+    "Places of worship may refuse entry to a person who refuses to wear a face covering or mask for non-medical reasons",
+    "Places of worship are encouraged to take steps to encourage orderly entering and exiting of services in a manner that encourages social distancing. For example:",
+    "Signage or floor markings should be posted to have one-way aisles or otherwise direct attendees to follow certain pathways for entering and exiting the service",
+    "If a line forms outside of the service, those waiting should be directed to maintain social distancing. Tape or other markings on the ground outside of Places of worship should be placed to encourage attendees to maintain social distancing of at least 6 feet",
+    "Staff should direct people in high traffic areas to help maintain social distancing",
+    "Officiants or other staff should direct successive, row-by-row exiting"
+  ],
+  "Hygiene Protocols": [
+    "Places of worship shall ensure that attendees and workers have access to handwashing facilities, including soap and running water, and allow workers sufficient break time to wash hands, as necessary. They are also encouraged to make alcohol-based hand sanitizers with at least 60% alcohol available, if possible"
+  ],
+  "Staffing and Operations": [
+    "Places of worship shall not have communal gathering pre or post service (e.g., coffee hours or other food services)",
+    "Places of worship running food pantries or other prepackaged food distribution may continue to do so",
+    "Any childcare services shall remain closed until such time that there is additional guidance",
+    "If a place of worship learns that an attendee or worker or other worker has tested positive for COVID-19, it shall notify the local Board of Health (LBOH) in the city or town where the place of worship is located and assist the LBOH as reasonably requested to trace likely contacts and advise contacts to isolate and self-quarantine",
+    "Places of worship are encouraged to modify the means to collect any financial contributions from attendees so as to eliminate shared contribution trays and baskets and to minimize contact. Consider setting up a no-touch method to collect contributions, and encouraging contributions through mail or electronic means",
+    "Places of worship are encouraged to modify communal rituals, like taking communion or passing of the peace, so as to limit contact with others. Consider distributing, where applicable, prepackaged communion or sacraments"
+  ],
+  "Cleaning and Disinfecting": [
+    "Places of worship shall be cleaned and disinfected between each service, including disinfection of heavy transit areas and high-touch surfaces (e.g., doorknobs, bathrooms, microphones, shared instruments)",
+    "If a place of worship learns that an individual with COVID-19 attended a service or otherwise entered the place of worship, it shall conduct a deep cleaning and disinfecting consistent with the Centers for Disease Control guidance",
+    "If a Place of worship learns that an attendee or worker or other worker has tested positive for COVID-19, it shall notify the local Board of Health (LBOH) in the city or town where the place of worship is located and assist the LBOH as reasonably requested to advise likely contacts to isolate and self-quarantine"
+  ]
+}

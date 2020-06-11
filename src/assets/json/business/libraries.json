@@ -1,0 +1,44 @@
+{
+  "Name": "Libraries",
+  "Social Distancing": [
+    "Libraries must establish procedures for patrons to check out materials prior to arriving at the library for curbside or circulation desk pickup.  Patron entry to the library should be limited to circulation desk pickup only ",
+    "Libraries must put markers outside of the library to ensure 6 feet of distance for patrons who are waiting outside to enter",
+    "Ensure separation of 6 feet or more between individuals where possible:",
+    "Close or reconfigure worker common spaces and high density areas where workers are likely to congregate (e.g., break rooms, eating areas) to allow social distancing",
+    "Physical partitions must separate workstations that cannot be spaced out (partitions must be at least 6 feet in height)",
+    "Install physical barriers for checkout stations where possible, otherwise maintain 6 feet distance where not possible ",
+    "Install visual social distancing markers to encourage patrons to remain 6 feet apart (e.g., lines outside of the libraries if applicable, checkout lines, lines to use the restroom)",
+    "Stagger lunch and break times, regulating max number of people in one place and ensuring at least 6 feet of physical distancing",
+    "Require face coverings for all workers and patrons, except where unsafe due to medical condition or disability ",
+    "Libraries are encouraged to offer exclusive hours or other accommodations for those in high-risk populations as defined by the CDC",
+    "Improve ventilation for enclosed spaces where possible (e.g., open doors and windows)",
+    "Contactless payment methods are encourage"
+  ],
+  "Hygiene Protocols": [
+    "Disinfect shared equipment, such as computers, before use by another worker",
+    "Ensure access to handwashing facilities on site, including soap and running water, wherever possible and encourage frequent handwashing; alcohol-based hand sanitizers with at least 60% alcohol may be used as an alternative",
+    "Supply workers at workplace location with adequate cleaning products (e.g., sanitizer, disinfecting wipes)",
+    "Alcohol-based hand sanitizers with at least 60% alcohol should be made available at entrances and throughout floor areas for both workers and patrons",
+    "Avoid sharing equipment and supplies between workers",
+    "Post visible signage throughout the site to remind workers of hygiene and safety protocols"
+  ],
+  "Staffing and Operations": [
+    "Provide training to employees on up-to-date safety information and precautions including hygiene and other measures aimed at reducing disease transmission, including:",
+    "Adjust workplace hours and shifts (leverage working teams with different schedules or staggered arrival / departure) to minimize contact across workers and reduce congestion at entry points",
+    "Libraries should reduce operating hours to allow for on-going off-hour sanitation and cleaning",
+    "Close all seating areas and prohibit the use of public computers, printers, and other shared technology",
+    "Workers must stay home if feeling ill",
+    "If the employer is notified of a positive case at the workplace, the employer shall notify the local Board of Health (LBOH) in the city or town where the workplace is located and assist the LBOH as reasonably requested to advise likely contacts to isolate and self-quarantine. Testing of other workers may be recommended consistent with guidance and / or at the request of the LBOH",
+    "Post notice to workers and patrons of important health information and relevant safety measures as outlined in the Commonwealth’s Mandatory Safety Standards for Workplace",
+    "Workers who are particularly vulnerable to COVID-19 according to the Centers for Disease Control (e.g., due to age or underlying conditions) are encouraged to stay home",
+    "Workers are strongly encouraged to self-identify symptoms or any close contact to a known or suspected COVID-19 case to the employer",
+    "Encourage workers who test positive for COVID-19, to disclose to the employer of the office for purposes of cleaning / disinfecting and contact tracing "
+  ],
+  "Cleaning and Disinfecting": [
+    "Conduct frequent cleaning and disinfection of site (at least daily and more frequently if feasible)",
+    "Once returned, remove books from service for 24 hours (before it can be checked out by another patron)",
+    "Keep cleaning logs that include date, time, and scope of cleaning",
+    "Conduct frequent disinfecting of heavy transit areas and high-touch surfaces (e.g., doorknobs, bathrooms, baskets, carts, staff break rooms)",
+    "In event of a positive case, shut down site for a deep cleaning and disinfecting of the workplace in accordance with current CDC guidance"
+  ]
+}

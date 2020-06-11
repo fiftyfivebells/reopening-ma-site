@@ -1,0 +1,52 @@
+{
+  "Name": "Golf Facilities",
+  "Social Distancing": [
+    "Require all workers and customers to remain at least 6 feet apart when possible",
+    "Install visual markers to encourage customers to remain at least 6 feet apart in the clubhouse, pro shop, and other common areas",
+    "Stagger lunch and break times for workers, regulate the maximum number of people in one place and ensure at least 6 feet of physical distancing",
+    "Close or reconfigure worker common spaces and high-density areas of facilities where workers are likely to congregate (e.g., break rooms, eating areas) to allow 6 feet of physical distancing",
+    "Require face coverings for all customers and workers, except where an individual is unable to wear a face covering due to a medical condition or disability ",
+    "Golfers may remove face coverings where they can easily, continuously, and measurably maintain at least 6 feet of distance from players and other persons present; instruct players that they must wear face coverings when they are unable to remain a distance of 6 feet from others ",
+    "Install physical partitions between workstations where 6 feet distance cannot be maintained; partitions must be at least 6 feet in height to be effective",
+    "Encourage golfers to walk or use a push cart, but allow golf carts to be used only if each cart is used by and contains only a single rider or a group of golfers living in the same house.  Golf carts and push carts must be cleaned and sanitized after each use ",
+    "Restrict groups of players to no more than 4 players at one time ",
+    "Prohibit events such as “shotgun” style events that result in multiple groups of golfers finishing at the same time",
+    "Require that all golfers leave the course immediately following play and instruct golfers that before and after play they may not congregate in any areas on/around the course, including parking lots",
+    "Improve ventilation for enclosed spaces where possible (e.g., open doors and windows)",
+    "Encourage the use of contactless payment methods whenever possible"
+  ],
+  "Hygiene Protocols": [
+    "Ensure access to handwashing facilities on site, including soap and running water, wherever possible and encourage frequent handwashing; alcohol-based hand sanitizers with at least 60% alcohol may be used as an alternative",
+    "Supply workers at workplace location with adequate cleaning products (e.g., sanitizer, disinfecting wipes)",
+    "Remove any common use items or equipment, including but not limited to: bunker rakes, ball washers, water coolers, scorecards, and pencils",
+    "Notify golfers that flag sticks must remain in the hole. Hole liners must be raised or otherwise adjusted so that players do not reach into the hole to retrieve a ball ",
+    "Prohibit the use of caddies or bag handlers ",
+    "All shared and rental equipment, such as clubs, must be cleaned and disinfected after each use"
+  ],
+  "Staffing and Operations": [
+    "Additional on-site amenities and services may only open and operate when those amenities or services would otherwise be authorized to operate under the Commonwealth’s Phased Reopening Plan and then must adhere to all sector-specific safety protocols, available on the Reopening Plan website, applicable to the amenity or service.  Examples include:",
+    "Provide training to workers on up-to-date safety information and precautions including hygiene and other measures aimed at reducing disease transmission, including:",
+    "Adjust workplace hours and shifts (leverage working teams with different schedules or staggered arrival / departure) to minimize contact across workers and reduce congestion at entry points",
+    "Maintain a log of workers and customers to support contact tracing (name, date, time, contact information) if needed",
+    "Instruct workers that they may not appear for work if feeling ill ",
+    "If the employer is notified of a positive case at the workplace, the employer shall notify the local Board of Health (LBOH) in the city or town where the workplace is located and assist the LBOH as reasonably requested to advise likely contacts to isolate and self-quarantine. Testing of other workers may be recommended consistent with guidance and / or at the request of the LBOH ",
+    "Post notice to workers and customers of important health information and relevant safety measures as outlined in the Commonwealth’s Mandatory Safety Standards for Workplace ",
+    "Close buffets or self-service food areas with multi-use items",
+    "Use of driving range, putting green and other practice facilities must follow social distancing protocols and must require use of masks or face coverings  ",
+    "Modify driving range hitting areas to ensure a minimum 6-feet of separation between players",
+    "Require customers to reserve tee times in advance",
+    "Require at least 12 minutes between group tee times",
+    " ",
+    "Workers and golfers who are particularly vulnerable to COVID-19 according to the Centers for Disease Control (e.g., due to age or underlying conditions) are encouraged to stay home ",
+    "Encourage workers to self-identify symptoms or any close contact to a known or suspected COVID-19 case to the employer",
+    "Encourage workers who test positive for COVID-19, to disclose to the employer of the office for purposes of cleaning / disinfecting and contact tracing"
+  ],
+  "Cleaning and Disinfecting": [
+    "Clean commonly touched surfaces in restrooms (e.g., toilet seats, doorknobs, stall handles, sinks, paper towel dispensers, soap dispensers) frequently and in accordance with CDC guidelines",
+    "Conduct frequent cleaning and disinfection of site (at least daily and more frequently if feasible)",
+    "Keep cleaning logs that include date, time, and scope of cleaning",
+    "Conduct frequent disinfecting of heavy transit areas, high-touch surfaces (e.g., doorknobs, railings, counters), and practice equipment (e.g., range balls, baskets)",
+    "In the event of a presumptive or positive case of COVID-19 at the golf facility, the clubhouse, pro shop, and other interior common areas must shut down for a deep cleaning and disinfecting of the workplace in accordance with current CDC guidance. Operations may continue at outdoor facilities provided that all interior spaces remained closed while being cleaned and sanitized in accordance with CDC guidance",
+    "Disinfect golf carts and pull carts after each use"
+  ]
+}

@@ -1,4 +1,5 @@
 import React from "react";
+import "../assets/styles/components.css";
 import Phase from "./Phase";
 
 const phaseInfo = require("../assets/json/phases/phase_info.json");
@@ -28,12 +29,14 @@ class Phases extends React.Component {
           {phaseInfo.next.name} is projected to start on {phaseInfo.next.start}.
         </h3>
         <p>Click a button below for more information on the specific phases:</p>
-        <div>
+        <div class="button-container">
           <button onClick={() => this.setPhaseInfo(phase1)}>Phase 1</button>
           <button onClick={() => this.setPhaseInfo(phase2)}>Phase 2</button>
           <button onClick={() => this.setPhaseInfo(phase3)}>Phase 3</button>
           <button onClick={() => this.setPhaseInfo(phase4)}>Phase 4</button>
         </div>
+        <br />
+        <br />
         <Phase phase={this.state.phase} />
       </div>
     );

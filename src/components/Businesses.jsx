@@ -1,4 +1,8 @@
 import React from "react";
+import Business from "./Business";
+
+import "../assets/styles/components.css";
+
 
 const carWash = require("../assets/json/business/car_wash.json");
 const closePersonal = require("../assets/json/business/close_contact_personal_services.json");

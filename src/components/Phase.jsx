@@ -1,4 +1,5 @@
 import React from "react";
+import "../assets/styles/components.css";
 import ListItem from "./ListItem";
 
 class Phase extends React.Component {
@@ -22,11 +23,11 @@ class Phase extends React.Component {
     } else {
       const activeInfo = phase[this.state.active];
       return (
-        <div>
+        <div class="flex-parent">
           <h2>
             Starts: {phase.start_date}, Ends: {phase.end_date}
           </h2>
-          <div>
+          <div class="button-container">
             <button
               id="businesses"
               onClick={(e) => this.updateInfo(e.target.id)}
@@ -47,11 +48,11 @@ class Phase extends React.Component {
             </button>
           </div>
           <h3>{this.state.active}</h3>
-          <ul>
+          <div class="list-container">
             {activeInfo.map((item, i) => (
-              <li key={i}>{item}</li>
+              <ListItem statement={item} />
             ))}
-          </ul>
+          </div>
         </div>
       );
     }

@@ -36,6 +36,58 @@ class Businesses extends React.Component {
     return (
       <div>
         <h1>Businesses</h1>
+        <p>
+          Click a button below for more information on the specific industry:
+        </p>
+        <div class="button-container">
+          <button onClick={() => this.setBusinessInfo(carWash)}>
+            Car Washes
+          </button>
+          <button onClick={() => this.setBusinessInfo(closePersonal)}>
+            Close Contact Services
+          </button>
+          <button onClick={() => this.setBusinessInfo(construction)}>
+            Construction
+          </button>
+          <button onClick={() => this.setBusinessInfo(drivingFlight)}>
+            Driving and Flight Schools
+          </button>
+          <button onClick={() => this.setBusinessInfo(general)}>
+            General Business Info
+          </button>
+          <button onClick={() => this.setBusinessInfo(golf)}>
+            Golf Facilities
+          </button>
+          <button onClick={() => this.setBusinessInfo(hairSalons)}>
+            Hair Salons/Barbershops
+          </button>
+          <button onClick={() => this.setBusinessInfo(labs)}>
+            Laboratories
+          </button>
+          <button onClick={() => this.setBusinessInfo(libraries)}>
+            Libraries
+          </button>
+          <button onClick={() => this.setBusinessInfo(lodging)}>Lodging</button>
+          <button onClick={() => this.setBusinessInfo(manufacturing)}>
+            Manufacturing
+          </button>
+          <button onClick={() => this.setBusinessInfo(offices)}>
+            Office Spaces
+          </button>
+          <button onClick={() => this.setBusinessInfo(pets)}>
+            Pet Grooming
+          </button>
+          <button onClick={() => this.setBusinessInfo(worship)}>
+            Places of Worship
+          </button>
+          <button onClick={() => this.setBusinessInfo(restaurants)}>
+            Restaurants
+          </button>
+          <button onClick={() => this.setBusinessInfo(retail)}>Retail</button>
+        </div>
+        <br />
+        <br />
+        <Business business={this.state.business} />
       </div>
     );
   }

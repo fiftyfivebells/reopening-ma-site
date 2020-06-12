@@ -37,6 +37,7 @@ class Phases extends React.Component {
         </div>
         <br />
         <br />
+        <h2>{this.state.phase.name}</h2>
         <Phase phase={this.state.phase} />
       </div>
     );

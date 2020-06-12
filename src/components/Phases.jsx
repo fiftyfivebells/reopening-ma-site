@@ -13,7 +13,7 @@ class Phases extends React.Component {
     super(props);
     this.setPhaseInfo = this.setPhaseInfo.bind(this);
     this.state = {
-      phase: {},
+      phase: phase1,
     };
   }
 

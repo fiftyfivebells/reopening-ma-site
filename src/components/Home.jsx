@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 class Home extends React.Component {
   constructor(props) {
@@ -13,15 +14,16 @@ class Home extends React.Component {
         <h1>Organized Notes on Reopening MA</h1>
         <ul>
           <li>
-            For information on businesses, click <a href="/businesses">HERE</a>.
+            For information on businesses, click{" "}
+            <Link to="/businesses">HERE</Link>.
           </li>
           <li>
             For information on the different phases, click{" "}
-            <a href="/phases">HERE</a>.
+            <Link to="/phases">HERE</Link>.
           </li>
           <li>
             For general information for citizens, click{" "}
-            <a href="/citizens">HERE</a>.
+            <Link to="/citizens">HERE</Link>.
           </li>
         </ul>
       </div>

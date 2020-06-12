@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Link, Route, Switch } from "react-router-dom";
 import "./assets/styles/App.css";
 import Businesses from "./components/Businesses";
 import Citizens from "./components/Citizens";
+import Home from "./components/Home";
 import Phases from "./components/Phases";
 
 const routes = [
@@ -10,7 +11,7 @@ const routes = [
     path: "/",
     exact: true,
     sidebar: () => <div>Home</div>,
-    main: () => <h2>Home</h2>,
+    main: () => <Home />,
   },
   {
     path: "/citizens",

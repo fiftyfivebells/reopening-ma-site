@@ -15,15 +15,15 @@ class Home extends React.Component {
         <ul>
           <li>
             For information on businesses, click{" "}
-            <Link to="/businesses">HERE</Link>.
+            <Link to="/#/businesses">HERE</Link>.
           </li>
           <li>
             For information on the different phases, click{" "}
-            <Link to="/phases">HERE</Link>.
+            <Link to="/#/phases">HERE</Link>.
           </li>
           <li>
             For general information for citizens, click{" "}
-            <Link to="/citizens">HERE</Link>.
+            <Link to="/#/citizens">HERE</Link>.
           </li>
         </ul>
       </div>

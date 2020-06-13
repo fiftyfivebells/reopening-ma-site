@@ -16,5 +16,4 @@ deployment:
   production:
     branch: master
     commands:
-      - surge --project ./build
-  --domain reopening-ma.surge.sh
+      - npm run deploy

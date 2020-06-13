@@ -11,3 +11,10 @@ workflows:
     # Run the welcome/run job in its own container
     jobs:
       - welcome/run
+
+deployment:
+  production:
+    branch: master
+    commands:
+      - surge --project ./build
+  --domain reopening-ma.surge.sh

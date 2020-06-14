@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from "react-router-dom";
 
 class Home extends React.Component {
   constructor(props) {
@@ -12,20 +11,10 @@ class Home extends React.Component {
     return (
       <div>
         <h1>Organized Notes on Reopening MA</h1>
-        <ul>
-          <li>
-            For information on businesses, click{" "}
-            <Link to="/#/businesses">HERE</Link>.
-          </li>
-          <li>
-            For information on the different phases, click{" "}
-            <Link to="/#/phases">HERE</Link>.
-          </li>
-          <li>
-            For general information for citizens, click{" "}
-            <Link to="/#/citizens">HERE</Link>.
-          </li>
-        </ul>
+        <p>
+          Click on one of the links to the side to learn more about the
+          Massachusetts reopening efforts
+        </p>
       </div>
     );
   }

@@ -60,12 +60,28 @@ class Home extends React.Component {
 
   render() {
     return (
-      <div>
+      <div class="flex-parent">
         <h1>Organized Notes on Reopening MA</h1>
         <p>
           Click on one of the links to the side to learn more about the
           Massachusetts reopening efforts
         </p>
+        <br />
+        <br />
+        <h3>The following industries are currently allowed to open:</h3>
+        <div class="list-container">
+          {industries.map((item) => (
+            <ListItem statement={item} />
+          ))}
+        </div>
+        <h3>
+          The following outdoor recreational activies are currently allowed:
+        </h3>
+        <div class="list-container">
+          {outdoor.map((item) => (
+            <ListItem statement={item} />
+          ))}
+        </div>
       </div>
     );
   }

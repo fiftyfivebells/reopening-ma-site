@@ -1,15 +1,41 @@
 {
   "Name": "Construction",
   "Social Distancing": [
-    ""
+    "No handshaking",
+    "Contractor and State Agency Field Offices are locked down to all but authorized personnel",
+    "A \"No Congretation\" policy is in effect, individuals must implement social distancing by maintaining a minimum distance of 6 feet from other individuals",
+    "Avoid face-to-face meetings - critical situations requiring in-person discussion must follow social distancing",
+    "Conduct all meetings via conference calls if possible. Do not convene meetings of more than 10 people. Recommend use of cell phones, texting, web meeting sites and conference calls for project discussion",
+    "All individual work crew meetings/tailgate talks should be held outside and follow social distancing",
+    "Please keep crews a minimum of 6 feet apart at all times to eliminate the potential of cross contamination",
+    "Maintain social distancing during breaks and lunch"
   ],
   "Hygiene Protocols": [
-    ""
+    "Wash hands often with soap for at least 20 seconds or use an alcohol-based sanitizer with at least 60% ethanol or 70% isopropanol",
+    "All workers should use their own water bottle, and do not share",
+    "To avoid external contamination, it's recommended that everyone bring food from home",
+    "Cover coughing or sneezing with a tissue, then throw the tissue in the trash and wash hands, if no tissue is available then cough into your elbow",
+    "Avoid touching eyes, nose, and mouth with your hands",
+    "100% glove policy: all construction workers will be required to wear cut-resistant gloves or the equivalent",
+    "In work conditions where required social distancing is impossible to achieve affected employees shall be supplied PPE including as appropriate a standard face mask, gloves, and eye protection",
+    "All employees should drive to work site/parking area in a single occupant vehicle. Contractors/State staff should not ride together in the same vehicle",
+    "Install hand wash stations with hot water, if possible, and soap at fire hydrants or other water sources to be used for frequent handwashing for all onsite employees"
   ],
   "Staffing and Operations": [
-    ""
+    "At each job briefing/tool-box talk, employees are asked if they are experiencing any symptoms, and are sent home if they are",
+    "Each job site should have laminated COVID-19 safety guidelines and handwashing instructions",
+    "To avoid sharing germs, everyone should clean up after themselves. Everyone is resonsible for moving, unpacking, and packing up their personal belongings",
+    "If a worker or their family member feels ill, the worker should stay home",
+    "Use of eye protection (safety goggles/face shields) is recommended",
+    "When entering a machine or vehicle which you are not sure you were the last person to enter, make sure that you wipe down the interior and door handles with disinfectant prior to entry",
+    "Large gathering places on the site such as shacks and break areas will be eliminated and instead small break areas will be used with seating limited to ensure social distancing"
   ],
   "Cleaning and Disinfecting": [
-    ""
+    "Each jobsite should develop cleaning and decontamination procedures that are posted and shared. These procedures must cover all areas including trailers, gates, equipment, vehicles, etc. and shall be posted at all entry points to the sites, and throughout the project site",
+    "All restroom facilities/porta-potties should be cleaned and handwashing stations must be provided with soap, hand sanitizer and paper towels",
+    "All surfaces should be regularly cleaned, including surfaces, door handles, laptops, etc.",
+    "All common areas and meeting areas are to be regularly cleaned and disinfected at least once a day but preferably twice a day",
+    "Contact the cleaning person for your office trailer or office space and ensure they have proper COVID- 19 sanitation processes. Increase their cleaning visits to daily",
+    "Clean all high contact surfaces a minimum of twice a day in order to minimize the spread of germs in areas that people touch frequently. This includes but is not limited to desks, laptops and vehicles"
   ]
 }

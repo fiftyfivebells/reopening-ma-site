@@ -7,7 +7,7 @@ class Phase extends React.Component {
     super(props);
     this.updateInfo = this.updateInfo.bind(this);
     this.state = {
-      active: "businesses",
+      active: "Businesses",
     };
   }
 
@@ -29,21 +29,27 @@ class Phase extends React.Component {
           </h2>
           <div class="button-container">
             <button
-              id="businesses"
+              id="Businesses"
               onClick={(e) => this.updateInfo(e.target.id)}
             >
               Business
             </button>
             <button
-              id="healthcare"
+              id="Healthcare"
               onClick={(e) => this.updateInfo(e.target.id)}
             >
               Healthcare
             </button>
-            <button id="advisory" onClick={(e) => this.updateInfo(e.target.id)}>
-              Advisory
+            <button
+              id="General Advisory"
+              onClick={(e) => this.updateInfo(e.target.id)}
+            >
+              General Advisory
             </button>
-            <button id="outdoor" onClick={(e) => this.updateInfo(e.target.id)}>
+            <button
+              id="Outdoor Recreation"
+              onClick={(e) => this.updateInfo(e.target.id)}
+            >
               Outdoor
             </button>
           </div>

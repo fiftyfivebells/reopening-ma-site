@@ -2,20 +2,20 @@
   "name": "Phase 4",
   "start_date": "TBD by trends",
   "end_date": "TBD by trends",
-  "advisory": [
+  "General Advisory": [
     "Add individuals resume public interactions with physical distancing",
     "Gathering size to be determined based on trends"
   ],
-  "travelers": [
+  "Travelers": [
     "Travel resumes, but continue to observe social guidance"
   ],
-  "businesses": [
+  "Businesses": [
     "Full resumption of business activities (including night clubs and large venues)"
   ],
-  "healthcare": [
+  "Healthcare": [
     "Full resumption of health and human services"
   ],
-  "outdoor": [
+  "Outdoor Recreation": [
     "Full resumption of outdoor recreation and activities"
   ]
 }

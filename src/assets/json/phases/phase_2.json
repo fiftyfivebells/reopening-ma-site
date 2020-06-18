@@ -2,27 +2,28 @@
   "name": "Phase 2",
   "start_date": "June 8 (stage 1)",
   "end_date": "TBD by trends",
-  "advisory": [
+  "General Advisory": [
     "Safer at home",
     "High risk individuals should work from home and get priority consideration for workplace accommodations",
     "Gathering size to be determined based on trends"
   ],
-  "travelers": [
+  "Travelers": [
     "Urged to quarantine for 14 days (not required)",
     "Business and recreational travel is discouraged",
     "Lodging is open with restrictions"
   ],
-  "businesses": [
+  "Businesses": [
     "Retail (with capacity limitations)",
     "Restaurants (outdoor dining only)",
+    "Restaurants (indoor dining) opening in step 2",
     "Lodging",
     "Additional personal services (nail salons, day spas, etc.)"
   ],
-  "healthcare": [
+  "Healthcare": [
     "Less urgent preventative services, procedures, and care (routine teeth cleanings, some elective procedures)",
     "Day programs (adult day health, day habilitation, etc.)"
   ],
-  "outdoor": [
+  "Outdoor Recreation": [
     "Campgroungs",
     "Playgrounds and spray decks",
     "Public and community pools (outdoor)",

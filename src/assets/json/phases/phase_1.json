@@ -2,30 +2,30 @@
   "name": "Phase 1",
   "start_date": "May 18",
   "end_date": "June 8",
-  "advisory": [
+  "General Advisory": [
     "Safer at home",
     "High risk individuals should work from home if possible and get priority consideration for workplace accommodations",
     "Gatherings should be less than 10 people"
   ],
-  "travelers": [
+  "Travelers": [
     "Travelers to MA urged to quarantine for 14 days (not required)",
     "Lodging restricted to essential business only"
   ],
-  "businesses": [
-    "Essential businesses (May 18)",
-    "Manufacturing (May 18)",
-    "Construction (May 18)",
-    "Lab space (May 25)",
-    "Office space (May 25)",
-    "Limited personal services (hair salons/barber shops, pet grooming, car washes) (May 25)",
-    "Retail (remote fulfillment and curbside pickup only) (May 25)",
-    "Office space in Boston (June 1)"
+  "Businesses": [
+    "Essential businesses",
+    "Manufacturing",
+    "Construction",
+    "Lab space",
+    "Office spaces",
+    "Limited personal services (hair salons/barber shops, pet grooming, car washes)",
+    "Retail (remote fulfillment and curbside pickup only)",
+    "Office space in Boston"
   ],
-  "healthcare": [
+  "Healthcare": [
     "Provide high priority preventative and pediatric care and treatment for high risk individuals (May 18)",
     "Additional healthcare providers can do the same (May 15)"
   ],
-  "outdoor": [
+  "Outdoor Recreation": [
     "Can open with guidelines:",
     "Beaches",
     "Parks",

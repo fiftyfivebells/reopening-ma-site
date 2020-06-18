@@ -5,6 +5,7 @@ import "../assets/styles/components.css";
 
 const safer = require("../assets/json/citizens/safer_at_home.json");
 const guidance = require("../assets/json/citizens/guidance.json");
+const mask = require("../assets/json/citizens/mask.json");
 
 class Citizens extends React.Component {
   constructor(props) {
@@ -47,6 +48,12 @@ class Citizens extends React.Component {
             onClick={(e) => this.setInfo(guidance, e.target.id)}
           >
             Social Guidance
+          </button>
+          <button
+            id="Mask Order"
+            onClick={(e) => this.setInfo(mask, e.target.id)}
+          >
+            Mask Order
           </button>
         </div>
         <br />
